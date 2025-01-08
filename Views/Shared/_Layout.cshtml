@@ -63,13 +63,12 @@
                                         <li><a asp-controller="BlogDetails" asp-action="BlogDetails">Blog Details</a>
                                         </li>
                                         <li><a asp-controller="Signup" asp-action="Signup">Sign Up</a></li>
-                                        <li><a asp-controller="Login" asp-action="Login">Login</a></li>
                                     </ul>
                                 </li>
                                 <li><a asp-controller="Blog" asp-actiion="Blog">Our Blog</a></li>
                                 <li><a asp-controller="Login" asp-action="Login">Contacts</a></li>
                                 <li><a asp-area="Admin" asp-controller="Movies" asp-action="">Admin</a></li>
-
+                            </ul>
                             </ul>
                         </nav>
                     </div>
@@ -77,7 +76,24 @@
                 <div class="col-lg-2">
                     <div class="header__right">
                         <a href="#" class="search-switch"><span class="icon_search"></span></a>
-                        <a asp-controller="Login" asp-action="Login"><span class="icon_profile"></span></a>
+
+                        @if (User.Identity!.IsAuthenticated)
+                        {
+                            <span class="navbar-text text-white">
+                                @User.Identity.Name!
+                            </span>
+                            <form method="post" asp-area="" asp-controller="Account" asp-action="Logout" class="d-inline">
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    <i class="fa fa-sign-out"></i> Logout
+                                </button>
+                            </form>
+                        }
+                        else
+                        {
+                            <a asp-controller="Account" asp-action="Login"><span class="icon_profile"></span></a>
+
+                        }
+
                     </div>
                 </div>
             </div>
