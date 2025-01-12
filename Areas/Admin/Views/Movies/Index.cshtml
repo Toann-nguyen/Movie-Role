@@ -1,4 +1,5 @@
-@model IEnumerable<MvcMovie.Models.MovieViewModel>
+@model PaginatedList<MvcMovie.Models.MovieViewModel>
+
 
 @{
     ViewData["Title"] = "Index";
@@ -14,13 +15,29 @@
         placeholder="Search">
     <button class="btn btn-primary" type="submit">Search</button>
 </form>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <label>Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" /></label>
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Title)
+                @* <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model =>
+                    model.Title)</a> *@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">Title</a>
+
             </th>
-            <th>
+            @* <th>
                 @Html.DisplayNameFor(model => model.ReleaseDate)
             </th>
             <th>
@@ -31,7 +48,12 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Age)
-            </th>
+            </th> *@
+            <th>Title</th>
+            <th>Release Date</th>
+            <th>Genre</th>
+            <th>Movie Type</th>
+            <th>Age</th>
             <th>image</th>
             <th></th>
         </tr>
@@ -40,7 +62,7 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td>
+                @* <td>
                     @Html.DisplayFor(modelItem => item.Title)
                 </td>
                 <td>
@@ -54,7 +76,12 @@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Age)
-                </td>
+                </td> *@
+                <td>@item.Title</td>
+                <td>@item.ReleaseDate.ToShortDateString()</td>
+                <td>@item.Genre</td>
+                <td>@item.MovieType</td>
+                <td>@item.Age</td>
                 <td>
                     <img style="object-fit: cover;  max-height: 150px" src="@item.ImagePath" alt="Image form @item.Title">
                 </td>
@@ -67,3 +94,14 @@
         }
     </tbody>
 </table>
+
+<div class="pagination-controls">
+    <a asp-action="Index" asp-route-sortOrder="@ViewData["CurrentSort"]" asp-route-pageNumber="@(Model.PageIndex - 1)"
+        asp-route-currentFilter="@ViewData["CurrentFilter"]" class="btn btn-default @prevDisabled">
+        Previous
+    </a>
+    <a asp-action="Index" asp-route-sortOrder="@ViewData["CurrentSort"]" asp-route-pageNumber="@(Model.PageIndex + 1)"
+        asp-route-currentFilter="@ViewData["CurrentFilter"]" class="btn btn-default @nextDisabled">
+        Next
+    </a>
+</div>

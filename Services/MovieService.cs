@@ -33,6 +33,7 @@ public class MovieService : IMovieService
         {
             movie.ImagePath = await SaveFile(request.Image);
         }
+        _context.Movie.Add(movie);
         await _context.SaveChangesAsync();
         return movie;
     }
@@ -48,7 +49,7 @@ public class MovieService : IMovieService
         }
 
         await _context.SaveChangesAsync();
-        
+
         return true;
     }
 
@@ -60,8 +61,8 @@ public class MovieService : IMovieService
 
     public async Task<MovieViewModel> GetMovie(int id)
     {
-        var movie = await _context.Movie.FirstOrDefaultAsync(m => m.Id ==id);
- 
+        var movie = await _context.Movie.FirstOrDefaultAsync(m => m.Id == id);
+
         return _mapper.Map<MovieViewModel>(movie);
     }
 
@@ -85,15 +86,34 @@ public class MovieService : IMovieService
         return true;
     }
 
-    public async Task<IEnumerable<MovieViewModel>> GetMovies(string searchString)
+    public async Task<IEnumerable<MovieViewModel>> GetMovies(string searchString, string sortOrder, int pageNumber, int pageSize)
     {
         var movies = _context.Movie.AsQueryable();
+
+        switch (sortOrder)
+        {
+            case "name_desc":
+                movies = movies.OrderByDescending(s => s.Title);
+                break;
+            default:
+                movies = movies.OrderBy(s => s.Title);
+                break;
+        }
 
         if (!string.IsNullOrEmpty(searchString))
         {
             movies = movies.Where(s => s.Title != null && s.Title.Contains(searchString));
         }
 
-        return _mapper.Map<IEnumerable<MovieViewModel>>(await movies.ToListAsync());
+        // return _mapper.Map<IEnumerable<MovieViewModel>>(await movies.ToListAsync(), sortOrder , movies.Skip((pageNumber - 1) * pageSize) , movies.Take(pageSize));
+        // var pagedMovies = await movies.Skip((pageNumber - 1) * pageSize).Take(pageSize).ToListAsync();
+        // return _mapper.Map<IEnumerable<MovieViewModel>>(pagedMovies);
+        var paginatedMovies = await PaginatedList<Movie>.CreateAsync(movies, pageNumber, pageSize);
+
+        var movieViewModels = paginatedMovies.Select(m => _mapper.Map<MovieViewModel>(m)).ToList();
+
+        return new PaginatedList<MovieViewModel>(movieViewModels, paginatedMovies.TotalCount, pageNumber, pageSize);
+
     }
+
 }

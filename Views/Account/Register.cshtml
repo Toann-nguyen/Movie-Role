@@ -12,7 +12,7 @@
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap"
-    rel="stylesheet">
+        rel="stylesheet">
 
     <!-- Css Styles -->
     <link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css">
@@ -27,7 +27,7 @@
 
 <body>
 
- 
+
     <!-- Normal Breadcrumb Begin -->
     <section class="normal-breadcrumb set-bg" data-setbg="/img/normal-breadcrumb.jpg">
         <div class="container">
@@ -43,44 +43,69 @@
     </section>
     <!-- Normal Breadcrumb End -->
 
+    @model MvcMovie.Models.RegisterViewModel
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
     <!-- Login Section Begin -->
-    <section class="login spad">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <section class="register spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="login__form">
-                        <h3>Login</h3>
-                        <form action="#">
+                    <div class="register__form">
+                        <h3>Register</h3>
+                        <form asp-action="Register" method="post">
+                            @* <div class="input__item">
+                            <input asp-for="Name" class="form-control" placeholder="Full Name" type="text" required />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                            <span class="icon_profile"></span>
+                        </div> *@
                             <div class="input__item">
-                                <input type="text" placeholder="Email address">
+                                <input asp-for="Email" class="form-control" placeholder="Email Address" type="email"
+                                    required />
+                                <span asp-validation-for="Email" class="text-danger"></span>
                                 <span class="icon_mail"></span>
                             </div>
                             <div class="input__item">
-                                <input type="text" placeholder="Password">
+                                <input asp-for="Password" class="form-control" placeholder="Password" type="password"
+                                    required />
+                                <span asp-validation-for="Password" class="text-danger"></span>
                                 <span class="icon_lock"></span>
                             </div>
-                            <button type="submit" class="site-btn">Login Now</button>
+                            <div class="input__item">
+                                <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password"
+                                    type="password" required />
+                                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                <span class="icon_lock"></span>
+                            </div>
+                            <button type="submit" class="site-btn">Register Now</button>
                         </form>
-                        <a href="#" class="forget_pass">Forgot Your Password?</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="login__register">
-                        <h3>Dont’t Have An Account?</h3>
-                        <a href="#" class="primary-btn">Register Now</a>
+                    <div class="register__login">
+                        <h3>Already Have An Account?</h3>
+                        <a asp-action="Login" class="primary-btn">Login Now</a>
                     </div>
                 </div>
             </div>
-            <div class="login__social">
+            <div class="register__social">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-6">
-                        <div class="login__social__links">
+                        <div class="register__social__links">
                             <span>or</span>
                             <ul>
-                                <li><a href="#" class="facebook"><i class="fa fa-facebook"></i> Sign in With
-                                Facebook</a></li>
-                                <li><a href="#" class="google"><i class="fa fa-google"></i> Sign in With Google</a></li>
-                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i> Sign in With Twitter</a>
+                                <li><a href="#" class="facebook"><i class="fa fa-facebook"></i> Sign up With
+                                        Facebook</a></li>
+                                <li><a href="#" class="google"><i class="fa fa-google"></i> Sign up With Google</a></li>
+                                <li><a href="#" class="twitter"><i class="fa fa-twitter"></i> Sign up With Twitter</a>
                                 </li>
                             </ul>
                         </div>
@@ -89,6 +114,8 @@
             </div>
         </div>
     </section>
+
+
     <!-- Login Section End -->
 
     <!-- Footer Section Begin -->
@@ -115,17 +142,21 @@
                 </div>
                 <div class="col-lg-3">
                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                      Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                      <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                        Copyright &copy;
+                        <script>document.write(new Date().getFullYear());</script> All rights reserved | This template
+                        is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com"
+                            target="_blank">Colorlib</a>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </p>
 
-                  </div>
-              </div>
-          </div>
-      </footer>
-      <!-- Footer Section End -->
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
 
-      <!-- Search model Begin -->
-      <div class="search-model">
+    <!-- Search model Begin -->
+    <div class="search-model">
         <div class="h-100 d-flex align-items-center justify-content-center">
             <div class="search-close-switch"><i class="icon_close"></i></div>
             <form class="search-model-form">

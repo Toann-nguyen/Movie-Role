@@ -16,10 +16,10 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public async Task<IActionResult> Index()
+    public async Task<IActionResult> Index(string searchString, string sortOrder, int? pageNumber, int pageSize = 10)
     {
         // Lấy danh sách phim từ service
-        var movies = await _movieService.GetMovies(null);
+        var movies = await _movieService.GetMovies("", "", pageNumber ?? 1, pageSize);
 
         // Kiểm tra dữ liệu
         ViewBag.MovieCount = movies?.Count() ?? 0;

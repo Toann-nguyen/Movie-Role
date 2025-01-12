@@ -4,7 +4,9 @@ namespace MvcMovie.Services;
 
 public interface IMovieService
 {
-    Task<IEnumerable<MovieViewModel>> GetMovies(string searchString);
+    Task<IEnumerable<MovieViewModel>> GetMovies(string searchString, string sortOrder , int pageNumber, int pageSize);
+
+
     Task<MovieViewModel> GetMovie(int id);
     Task<Movie> Create(MovieRequest request);
 

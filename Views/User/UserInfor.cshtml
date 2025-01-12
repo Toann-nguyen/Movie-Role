@@ -1,0 +1,111 @@
+@using MvcMovie.Models
+@model User
+
+<div style="background-color: black; width: 100%; height: 150px;"></div>
+<div class="container-xxl" style="padding-top: 50px;">
+    <div
+        style="display: flex; gap: 30px; border: 1px solid #ccc; border-radius: 10px; padding-top: 30px; background-color: #cccccc81">
+        <!-- Left: Profile Image -->
+        <div style="flex: 1; text-align: center;">
+            <div class="profile-image-container">
+                <img src="@(!string.IsNullOrEmpty(Model.ImageURL) ? Model.ImageURL : Url.Content("~/wwwroot/img/default_avatar.jpg"))"
+                    alt="User Avatar" class="profile-avatar" />
+            </div>
+            <h2>@Model.UserName</h2>
+            <p>@(User.IsInRole("Admin") ? "Admin" : "User")</p>
+        </div>
+
+        <!-- Right: Extra Information -->
+        <div style="flex: 2;">
+            <div class="profile-details">
+                <div class="detail-item">
+                    <label><strong>Full Name:</strong></label>
+                    <span>@(!string.IsNullOrEmpty(Model.UserName) ? Model.UserName : "Please Update")</span>
+                </div>
+                <div class="detail-item">
+                    <label><strong>Email:</strong></label>
+                    <span>@(!string.IsNullOrEmpty(Model.Email) ? Model.Email : "Please Update")</span>
+                </div>
+                <div class="detail-item">
+                    <label><strong>Phone Number:</strong></label>
+                    <span>@(!string.IsNullOrEmpty(Model.PhoneNumber) ? Model.PhoneNumber : "Please Update")</span>
+                </div>
+                <div class="detail-item">
+                    <label><strong>Address:</strong></label>
+                    <span>@(!string.IsNullOrEmpty(Model.Address) ? Model.Address : "Please Update")</span>
+                </div>
+                <div class="profile-actions" style="margin-top: 20px;">
+                    <a asp-controller="User" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit
+                        Profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal for Viewing Image -->
+<div id="imageModal" class="modal" style="display: none;">
+    <div class="modal-content">
+        <span class="close" onclick="document.getElementById('imageModal').style.display='none'">&times;</span>
+        <img id="modalImage" src="" alt="User Avatar" style="width: 100%; height: auto; border-radius: 10px;" />
+    </div>
+</div>
+
+<style>
+    .profile-avatar {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        cursor: pointer;
+        transition: transform 0.2s ease-in-out;
+        margin-bottom: 40px;
+    }
+
+    .profile-avatar:hover {
+        transform: scale(1.1);
+    }
+
+    .detail-item {
+        margin-bottom: 15px;
+    }
+
+    .modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+    }
+
+    .modal-content {
+        position: relative;
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        max-width: 500px;
+        width: 90%;
+    }
+
+    .modal-content .close {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+    document.querySelector('.profile-avatar').addEventListener('click', function () {
+        const modal = document.getElementById('imageModal');
+        const modalImage = document.getElementById('modalImage');
+        modalImage.src = this.src;
+        modal.style.display = 'flex';
+    });
+</script>

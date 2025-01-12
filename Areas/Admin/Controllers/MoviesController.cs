@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -21,11 +22,27 @@ namespace MvcMovie.Areas.Admin.Controllers
             _movieService = movieService;
         }
 
+
         // GET: Movies
-        public async Task<IActionResult> Index(string searchString)
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> Index(string searchString, string currentFilter, string sortOrder, int? pageNumber)
         {
+            ViewData["NameSortParm"] = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+            ViewData["CurrentSort"] = sortOrder;
             ViewData["CurrentFilter"] = searchString;
-            return View(await _movieService.GetMovies(searchString));
+
+            if (searchString != null)
+            {
+                pageNumber = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            int pageSize = 3;
+            // return View(await _movieService.GetMovies(searchString, sortOrder, (int)pageNumber!, pageSize));
+            var movies = await _movieService.GetMovies(searchString, sortOrder, pageNumber ?? 1, pageSize);
+            return View(movies);
         }
 
         // GET: Movies/Details/5
@@ -62,7 +79,7 @@ namespace MvcMovie.Areas.Admin.Controllers
             {
                 var result = await _movieService.Create(request);
 
-                    return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));
             }
             return View(request);
         }
@@ -76,7 +93,7 @@ namespace MvcMovie.Areas.Admin.Controllers
             }
 
             var movie = await _movieService.GetMovie(id.Value);
-            
+
             if (movie == null)
             {
                 return NotFound();
@@ -100,14 +117,15 @@ namespace MvcMovie.Areas.Admin.Controllers
             {
                 try
                 {
-                    var result = await _movieService.Update(id, movie); 
-                    if(result){
+                    var result = await _movieService.Update(id, movie);
+                    if (result)
+                    {
                         return RedirectToAction(nameof(Index));
                     }
                 }
                 catch (DbUpdateConcurrencyException)
-                { 
-                        return NotFound();
+                {
+                    return NotFound();
                 }
                 return RedirectToAction(nameof(Index));
             }
