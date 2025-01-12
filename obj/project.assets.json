@@ -8073,11 +8073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ngoc Anh\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "E:\\mvc-movie\\MVC-Movie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\Ngoc Anh\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "E:\\mvc-movie\\MVC-Movie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Ngoc Anh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ngoc Anh\\MvcMovie\\obj\\",
+      "outputPath": "E:\\mvc-movie\\MVC-Movie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

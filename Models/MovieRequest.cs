@@ -27,7 +27,13 @@ public class MovieRequest()
     public string? MovieType { get; set; }
 
     [Range(3, 100, ErrorMessage = "Độ tuổi từ 3 - 100")]
+    [Display(Name = "Độ tuổi")]
     public int Age { get; set; }
+
+    [StringLength(300, MinimumLength = 3, ErrorMessage = "Mô tả phải từ 3 - 300 ký tự")]
+    [Required(ErrorMessage = "Vui lòng nhập mô tả")]
+    [Display(Name = "Mô tả")]
+    public string? Description { get; set; }
 
     public IFormFile? Image { get; set; }
 

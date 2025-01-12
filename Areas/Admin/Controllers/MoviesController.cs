@@ -62,7 +62,7 @@ namespace MvcMovie.Areas.Admin.Controllers
             {
                 var result = await _movieService.Create(request);
 
-                    return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Index));
             }
             return View(request);
         }
@@ -76,7 +76,7 @@ namespace MvcMovie.Areas.Admin.Controllers
             }
 
             var movie = await _movieService.GetMovie(id.Value);
-            
+
             if (movie == null)
             {
                 return NotFound();
@@ -100,14 +100,15 @@ namespace MvcMovie.Areas.Admin.Controllers
             {
                 try
                 {
-                    var result = await _movieService.Update(id, movie); 
-                    if(result){
+                    var result = await _movieService.Update(id, movie);
+                    if (result)
+                    {
                         return RedirectToAction(nameof(Index));
                     }
                 }
                 catch (DbUpdateConcurrencyException)
-                { 
-                        return NotFound();
+                {
+                    return NotFound();
                 }
                 return RedirectToAction(nameof(Index));
             }

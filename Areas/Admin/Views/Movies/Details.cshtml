@@ -40,16 +40,22 @@
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Age)
         </dd>
-
         <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2" >
             Image
         </dt>
         <dd class="col-sm-10">
-            <img src="@Model.ImagePath" alt="@Model.Title">
+            <img src="@Model.ImagePath" alt="@Model.Title" id="preview" 
+            style="object-fit: cover;  max-height: 450px">
         </dd>
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-info">Edit</a>
+    <a asp-action="Index" class="btn btn-primary">Back to List</a>
 </div>

@@ -26,6 +26,9 @@ namespace MvcMovie.Migrations
                     b.Property<int>("Age")
                         .HasColumnType("INTEGER");
 
+                    b.Property<string>("Description")
+                        .HasColumnType("TEXT");
+
                     b.Property<string>("Genre")
                         .HasColumnType("TEXT");
 

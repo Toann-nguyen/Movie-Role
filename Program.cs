@@ -11,6 +11,8 @@ builder.Services.AddDbContext<MvcMovieContext>(options =>
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddAutoMapper(typeof(Program));
+
+
 builder.Services.AddScoped<IMovieService, MovieService>();
 //File Storage
 builder.Services.AddTransient<IStorageService, FileStorageService>();

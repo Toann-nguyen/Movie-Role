@@ -1,724 +1,764 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcMovie.bundle.scp.css",
       "PackagePath": "staticwebassets\\MvcMovie.fwjn205m9p.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
       "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\SlickNav-master.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\SlickNav-master.zip",
       "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
       "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\elegant_font.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\elegant_font.zip",
       "PackagePath": "staticwebassets\\Source\\elegant_font.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\font-awesome-4.7.0.zip",
       "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
       "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\plyr-master.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\plyr-master.zip",
       "PackagePath": "staticwebassets\\Source\\plyr-master.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\Source\\sass.zip",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\Source\\sass.zip",
       "PackagePath": "staticwebassets\\Source\\sass.zip"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\elegant-icons.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\elegant-icons.css",
       "PackagePath": "staticwebassets\\css\\elegant-icons.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\nice-select.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\plyr.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\plyr.css",
       "PackagePath": "staticwebassets\\css\\plyr.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\site.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\slicknav.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\css\\slicknav.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\style.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\css\\styles.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\favicon.ico",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\ElegantIcons.eot",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\ElegantIcons.svg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\ElegantIcons.woff",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\details-pic.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\details-pic.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\details-pic.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\review-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\review-1.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\review-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\review-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\review-2.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\review-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\review-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\review-3.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\review-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\review-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\review-4.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\review-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\review-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\review-5.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\review-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\anime\\review-6.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\anime\\review-6.jpg",
       "PackagePath": "staticwebassets\\img\\anime\\review-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-10.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-10.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-11.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-11.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-11.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-12.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-12.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-12.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-5.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-6.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-7.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-7.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-8.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-8.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\blog-9.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\blog-9.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\bd-item-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\bd-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\bd-item-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\bd-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\bd-item-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\bd-item-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\blog-details-pic.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\blog-details-pic.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details-pic.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\comment-1.png",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\comment-1.png",
       "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.png"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\comment-2.png",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\comment-2.png",
       "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.png"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\blog\\details\\comment-3.png",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\blog\\details\\comment-3.png",
       "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.png"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\hero\\hero-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\hero\\hero-1.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\live\\live-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\live\\live-1.jpg",
       "PackagePath": "staticwebassets\\img\\live\\live-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\live\\live-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\live\\live-2.jpg",
       "PackagePath": "staticwebassets\\img\\live\\live-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\live\\live-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\live\\live-3.jpg",
       "PackagePath": "staticwebassets\\img\\live\\live-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\live\\live-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\live\\live-4.jpg",
       "PackagePath": "staticwebassets\\img\\live\\live-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\live\\live-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\live\\live-5.jpg",
       "PackagePath": "staticwebassets\\img\\live\\live-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\live\\live-6.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\live\\live-6.jpg",
       "PackagePath": "staticwebassets\\img\\live\\live-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\logo.png",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\normal-breadcrumb.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\normal-breadcrumb.jpg",
       "PackagePath": "staticwebassets\\img\\normal-breadcrumb.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\popular\\popular-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\popular\\popular-1.jpg",
       "PackagePath": "staticwebassets\\img\\popular\\popular-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\popular\\popular-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\popular\\popular-2.jpg",
       "PackagePath": "staticwebassets\\img\\popular\\popular-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\popular\\popular-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\popular\\popular-3.jpg",
       "PackagePath": "staticwebassets\\img\\popular\\popular-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\popular\\popular-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\popular\\popular-4.jpg",
       "PackagePath": "staticwebassets\\img\\popular\\popular-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\popular\\popular-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\popular\\popular-5.jpg",
       "PackagePath": "staticwebassets\\img\\popular\\popular-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\popular\\popular-6.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\popular\\popular-6.jpg",
       "PackagePath": "staticwebassets\\img\\popular\\popular-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\recent\\recent-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\recent\\recent-1.jpg",
       "PackagePath": "staticwebassets\\img\\recent\\recent-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\recent\\recent-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\recent\\recent-2.jpg",
       "PackagePath": "staticwebassets\\img\\recent\\recent-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\recent\\recent-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\recent\\recent-3.jpg",
       "PackagePath": "staticwebassets\\img\\recent\\recent-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\recent\\recent-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\recent\\recent-4.jpg",
       "PackagePath": "staticwebassets\\img\\recent\\recent-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\recent\\recent-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\recent\\recent-5.jpg",
       "PackagePath": "staticwebassets\\img\\recent\\recent-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\recent\\recent-6.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\recent\\recent-6.jpg",
       "PackagePath": "staticwebassets\\img\\recent\\recent-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\comment-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\comment-1.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\comment-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\comment-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\comment-2.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\comment-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\comment-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\comment-3.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\comment-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\comment-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\comment-4.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\comment-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\tv-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\tv-1.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\tv-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\tv-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\tv-2.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\tv-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\tv-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\tv-3.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\tv-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\tv-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\tv-4.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\tv-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\sidebar\\tv-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\sidebar\\tv-5.jpg",
       "PackagePath": "staticwebassets\\img\\sidebar\\tv-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\trending\\trend-1.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\trending\\trend-1.jpg",
       "PackagePath": "staticwebassets\\img\\trending\\trend-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\trending\\trend-2.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\trending\\trend-2.jpg",
       "PackagePath": "staticwebassets\\img\\trending\\trend-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\trending\\trend-3.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\trending\\trend-3.jpg",
       "PackagePath": "staticwebassets\\img\\trending\\trend-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\trending\\trend-4.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\trending\\trend-4.jpg",
       "PackagePath": "staticwebassets\\img\\trending\\trend-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\trending\\trend-5.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\trending\\trend-5.jpg",
       "PackagePath": "staticwebassets\\img\\trending\\trend-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\img\\trending\\trend-6.jpg",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\img\\trending\\trend-6.jpg",
       "PackagePath": "staticwebassets\\img\\trending\\trend-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\datatables-simple-demo.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\jquery.slicknav.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\main.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\mixitup.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\mixitup.min.js",
       "PackagePath": "staticwebassets\\js\\mixitup.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\player.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\player.js",
       "PackagePath": "staticwebassets\\js\\player.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\scripts.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\js\\site.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_anime-details.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_anime-details.scss",
       "PackagePath": "staticwebassets\\sass\\_anime-details.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_anime-watching.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_anime-watching.scss",
       "PackagePath": "staticwebassets\\sass\\_anime-watching.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_base.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_base.scss",
       "PackagePath": "staticwebassets\\sass\\_base.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_blog-details.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_blog-details.scss",
       "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_blog.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_blog.scss",
       "PackagePath": "staticwebassets\\sass\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_breadcrumb.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_footer.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_footer.scss",
       "PackagePath": "staticwebassets\\sass\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_header.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_header.scss",
       "PackagePath": "staticwebassets\\sass\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_hero.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_hero.scss",
       "PackagePath": "staticwebassets\\sass\\_hero.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_login.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_login.scss",
       "PackagePath": "staticwebassets\\sass\\_login.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_mixins.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_mixins.scss",
       "PackagePath": "staticwebassets\\sass\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_product.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_product.scss",
       "PackagePath": "staticwebassets\\sass\\_product.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_responsive.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_responsive.scss",
       "PackagePath": "staticwebassets\\sass\\_responsive.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_signup.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_signup.scss",
       "PackagePath": "staticwebassets\\sass\\_signup.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\_variable.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\_variable.scss",
       "PackagePath": "staticwebassets\\sass\\_variable.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\sass\\style.scss",
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\sass\\style.scss",
       "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\user-content\\4a3460ea-3109-4257-927c-2f676e942356.jpg",
-      "PackagePath": "staticwebassets\\user-content\\4a3460ea-3109-4257-927c-2f676e942356.jpg"
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\270a8545-2e77-4c02-9e6b-b5d0a3f67bcc.jpg",
+      "PackagePath": "staticwebassets\\user-content\\270a8545-2e77-4c02-9e6b-b5d0a3f67bcc.jpg"
     },
     {
-      "Id": "C:\\Users\\Ngoc Anh\\MvcMovie\\wwwroot\\user-content\\7df46208-64f7-438f-a917-60ad354c3ca8.jfif",
-      "PackagePath": "staticwebassets\\user-content\\7df46208-64f7-438f-a917-60ad354c3ca8.jfif"
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\42e80ab3-9edf-4308-bcfa-ab369033758d.jpg",
+      "PackagePath": "staticwebassets\\user-content\\42e80ab3-9edf-4308-bcfa-ab369033758d.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\6e63b282-4e47-4527-9a85-4073d7396fd7.jpg",
+      "PackagePath": "staticwebassets\\user-content\\6e63b282-4e47-4527-9a85-4073d7396fd7.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\aad02c99-e191-4405-9ec1-75cd6d77da43.jpg",
+      "PackagePath": "staticwebassets\\user-content\\aad02c99-e191-4405-9ec1-75cd6d77da43.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\ca294bd0-acfb-491a-a39a-31599e8dd39f.jpg",
+      "PackagePath": "staticwebassets\\user-content\\ca294bd0-acfb-491a-a39a-31599e8dd39f.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\cb8b49d7-970e-41e9-b6a0-e6a021c4f325.jpg",
+      "PackagePath": "staticwebassets\\user-content\\cb8b49d7-970e-41e9-b6a0-e6a021c4f325.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\user-content\\f328f595-8251-4ec4-aa20-3a1c7298cde0.jpg",
+      "PackagePath": "staticwebassets\\user-content\\f328f595-8251-4ec4-aa20-3a1c7298cde0.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\videos\\1.mp4",
+      "PackagePath": "staticwebassets\\videos\\1.mp4"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\videos\\2.mp4",
+      "PackagePath": "staticwebassets\\videos\\2.mp4"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\videos\\3.jpg",
+      "PackagePath": "staticwebassets\\videos\\3.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\videos\\anime-watch.jpg",
+      "PackagePath": "staticwebassets\\videos\\anime-watch.jpg"
+    },
+    {
+      "Id": "E:\\mvc-movie\\MVC-Movie\\wwwroot\\videos\\prev.jpg",
+      "PackagePath": "staticwebassets\\videos\\prev.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -4,17 +4,36 @@
     ViewData["Title"] = "Home Page";
 }
 
-   <!-- Hero Section Begin -->
+<!-- Hero Section Begin -->
 <section class="hero">
     <div class="container">
         <div class="hero__slider owl-carousel">
-            <div class="hero__items set-bg" data-setbg="img/hero/hero-1.jpg">
+            <div class="hero__items set-bg" data-setbg="/videos/prev.jpg">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="hero__text">
+                            <div class="label">Shounen Jump</div>
+                            <h2 style="text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;">Naruto Shippuden</h2>
+                            <p style="text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000, 1px 1px #000, -1px
+                                -1px #000, 1px -1px #000, -1px 1px #000;">Tiếp nối phần I sau khi cậu bé cùng sư phụ
+                                Jiraiya của mình ...</p>
+                            <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hero__items set-bg" data-setbg="/videos/3.jpg">
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="hero__text">
                             <div class="label">Adventure</div>
-                            <h2>Fate / Stay Night: Unlimited Blade Works</h2>
-                            <p>After 30 days of travel across the world...</p>
+                            <h2 style="text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;">Spy x Family Movie: Code: White</h2>
+                            <p style="text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;">Dựa trên hình ảnh, bối cảnh của Spy X Family
+                                CODE:White sẽ là mùa đông với những lễ hội cuối năm và tuyết ...
+                            </p>
                             <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -25,20 +44,11 @@
                     <div class="col-lg-6">
                         <div class="hero__text">
                             <div class="label">Adventure</div>
-                            <h2>Fate / Stay Night: Unlimited Blade Works</h2>
-                            <p>After 30 days of travel across the world...</p>
-                            <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="hero__items set-bg" data-setbg="img/hero/hero-1.jpg">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="hero__text">
-                            <div class="label">Adventure</div>
-                            <h2>Fate / Stay Night: Unlimited Blade Works</h2>
-                            <p>After 30 days of travel across the world...</p>
+                            <h2 style="text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;">Fate / Stay Night: Unlimited Blade Works</h2>
+                            <p style="text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;">After 30 days of travel across the world...
+                            </p>
                             <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -53,42 +63,41 @@
 <section class="product spad">
     <div class="container">
         <div class="row">
-                       
-    @if (Model != null && Model.Any())
-    {
-        foreach (var movie in Model)
-        {
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="@movie.ImagePath">
-                        <div class="ep">@movie.Age+</div>
-                        <div class="comment"><i class="fa fa-comments"></i> 11</div>
-                        <div class="view"><i class="fa fa-eye"></i> @movie.Age+</div>
+
+            @if (Model != null && Model.Any())
+            {
+                foreach (var movie in Model)
+                {
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="product__item">
+                            <div class="product__item__pic set-bg" data-setbg="@movie.ImagePath">
+                                <div class="ep">@movie.Age+</div>
+                                <div class="comment"><i class="fa fa-comments"></i> 11</div>
+                                <div class="view"><i class="fa fa-eye"></i> @movie.Age+</div>
+                            </div>
+                            <div class="product__item__text">
+                                <ul>
+                                    <li>@movie.Genre</li>
+                                </ul>
+                                <h5><a asp-controller="AnimeDetails" asp-action="AnimeDetails"
+                                        asp-route-id="@movie.Id">@movie.Title</a>
+                                </h5>
+                            </div>
+                        </div>
                     </div>
-                    <div class="product__item__text">
-                        <ul>
-                            <li>Active</li>
-                            <li>@movie.Genre</li>
-                        </ul>
-                        <h5><a href="/Movies/Details/@movie.Id">@movie.Title</a></h5>
-                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12">
+                    <p>No movies available. owl-carousel Chihiro va</p>
                 </div>
-            </div>
-        }
-    }
-    else
-    {
-        <div class="col-12">
-            <p>No movies available. owl-carousel Chihiro va</p>
+                <div>
+                    <p style="color: aquamarine;">Movie Count: @ViewBag.MovieCount</p>
+                    <p style="color: aquamarine;">Has Movies: @ViewBag.HasMovies</p>
+                </div>
+            }
         </div>
-        <div>
-    <p style="color: aquamarine;">Movie Count: @ViewBag.MovieCount</p>
-    <p style="color: aquamarine;">Has Movies: @ViewBag.HasMovies</p>
-</div>
-    }
-</div>
     </div>
 </section>
 <!-- Product Section End -->
-
-

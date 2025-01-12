@@ -21,6 +21,8 @@ public class MovieViewModel
     [Display(Name = "Độ tuổi")]
     public int Age { get; set; }
 
+    [Display(Name = "Mô tả")]
+    public string? Description { get; set; }
     public string? ImagePath { get; set; }
     public IFormFile? Image {get; set;}
 }

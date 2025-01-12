@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cYXdE3rFLhI=",
+  "dgSpecHash": "/210Q68+hzo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ngoc Anh\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "E:\\mvc-movie\\MVC-Movie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ngoc Anh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ngoc Anh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
