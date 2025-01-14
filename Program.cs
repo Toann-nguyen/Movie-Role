@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using MvcMovie.Data;
 using AutoMapper;
 using MvcMovie.Services;
+using MvcMovie.Utils.ConfigOptions.VNPay;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<MvcMovieContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext") ?? throw new InvalidOperationException("Connection string 'MvcMovieContext' not found.")));
@@ -14,6 +15,10 @@ builder.Services.AddAutoMapper(typeof(Program));
 
 
 builder.Services.AddScoped<IMovieService, MovieService>();
+
+//VNpay 
+builder.Services.AddTransient<IVNPayService, VNPayService>();
+builder.Services.Configure<VNPayConfigOptions>(builder.Configuration.GetSection("VnPay"));
 //File Storage
 builder.Services.AddTransient<IStorageService, FileStorageService>();
 var app = builder.Build();
