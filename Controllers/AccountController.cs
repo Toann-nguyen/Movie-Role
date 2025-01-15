@@ -239,5 +239,17 @@ namespace MvcMovie.Controllers
                 }
             }
         }
+        //login role
+        public async Task<IActionResult> OnPostAsync(string returnUrl = null!)
+        {
+            returnUrl ??= Url.Content("~/");
+            ExternalLoginInfo? info = await _signInManager.GetExternalLoginInfoAsync();
+            if (info == null)
+                return LocalRedirect(returnUrl);
+            var result = await _signInManager.ExternalLoginSignInAsync(info.LoginProvider, info.ProviderKey, isPersistent: false, bypassTwoFactor: true);
+            if (result.Succeeded)
+                return LocalRedirect(returnUrl);
+            return LocalRedirect(returnUrl);
+        }
     }
 }

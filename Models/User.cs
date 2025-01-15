@@ -8,8 +8,11 @@ public class User : IdentityUser
     public UserStatus Status { get; set; } = UserStatus.Active; // Mặc định là Active
 
     // Thông tin cá nhân bổ sung
-    public DateTime? Birth { get; set; }
-    public string? Address { get; set; }
+    public string UserId { get; set; } = string.Empty;
+
+    public List<string> Roles { get; set; } = new();
+    public bool IsActive { get; set; }
+
     public string? ImageURL { get; set; }
 }
 
@@ -18,12 +21,44 @@ public class User : IdentityUser
 public enum UserStatus
 {
     Active,
-    Inactive
+    Inactive,
+    Locked
 }
 
-public class ManageRolesViewModel
+public class Role : IdentityRole
 {
-    public string UserId { get; set; } = string.Empty;
-    public string? Email { get; set; }
-    public List<string> Roles { get; set; } = new();
+    public ICollection<Permission>? Permissions { get; set; }
+
+    public Role() : base()
+    {
+        Permissions = new HashSet<Permission>();
+    }
+
+}
+
+// 2. Cập nhật Role entity để thêm relationship với Permission
+public class Permission
+{
+    public string? Id { get; set; } = Guid.NewGuid().ToString();
+    public string? Name { get; set; }        // Tên quyền (ví dụ: "CreateMovie")
+    public string? Description { get; set; }  // Mô tả quyền
+    public string? Group { get; set; }        // Nhóm quyền (ví dụ: "Movies", "Users")
+
+    // Relationship với Role (many-to-many)
+    public ICollection<Role>? Roles { get; set; }
+    
+    public Permission()
+    {
+        Roles = new HashSet<Role>();
+    }
+}
+
+// 3. Tạo bảng trung gian để map quan hệ many-to-many
+public class RolePermission
+{
+    public string? RoleId { get; set; }
+    public string? PermissionId { get; set; }
+
+    public Role? Role { get; set; }
+    public Permission? Permission { get; set; }
 }

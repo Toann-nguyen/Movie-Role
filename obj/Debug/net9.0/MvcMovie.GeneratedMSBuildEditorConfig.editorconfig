@@ -48,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvTW92aWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/dell/NETcore/MVC-Movie/Areas/Admin/Views/UserManagement/EditUserRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlck1hbmFnZW1lbnQvRWRpdFVzZXJSb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dell/NETcore/MVC-Movie/Areas/Admin/Views/UserManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlck1hbmFnZW1lbnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/dell/NETcore/MVC-Movie/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -94,6 +102,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/dell/NETcore/MVC-Movie/Views/Home/UserInfor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Vc2VySW5mb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dell/NETcore/MVC-Movie/Views/Pay/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dell/NETcore/MVC-Movie/Views/Pay/Pay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5L1BheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dell/NETcore/MVC-Movie/Views/Pay/PaymentFail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5L1BheW1lbnRGYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dell/NETcore/MVC-Movie/Views/Pay/PaymentSucces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5L1BheW1lbnRTdWNjZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/dell/NETcore/MVC-Movie/Views/Shared/Components/Footer/Default.cshtml]
@@ -146,6 +170,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/dell/NETcore/MVC-Movie/Views/User/UserInfor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Vc2VySW5mb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dell/NETcore/MVC-Movie/Views/UserManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlck1hbmFnZW1lbnQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/dell/NETcore/MVC-Movie/Views/_ViewImports.cshtml]
