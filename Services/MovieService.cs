@@ -1,6 +1,5 @@
 using System.Net.Http.Headers;
 using AutoMapper;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using MvcMovie.Models;
@@ -10,7 +9,6 @@ namespace MvcMovie.Services;
 public class MovieService : IMovieService
 {
     private readonly MvcMovieContext _context;
-    private readonly IMovieService _movieService;
     private readonly IMapper _mapper;
     private readonly IStorageService _storageService;
     private const string USER_CONTENT_FOLDER_NAME = "user-content";
@@ -68,6 +66,12 @@ public class MovieService : IMovieService
         return _mapper.Map<MovieViewModel>(movie);
     }
 
+    public async Task<Movie> GetMovieById(int id)
+    {
+        return await _context.Movie.FirstOrDefaultAsync(m => m.Id == id);
+    }
+
+
     public bool MovieExists(int id)
     {
         return _context.Movie.Any(e => e.Id == id);
@@ -99,14 +103,4 @@ public class MovieService : IMovieService
 
         return _mapper.Map<IEnumerable<MovieViewModel>>(await movies.ToListAsync());
     }
-
-    
-
-    public async Task<Movie> GetMovieById(int id)
-    {
-        return await _context.Movie.FindAsync(id);
-    }
-
-    // Action hiển thị chi tiết phim
-    
 }

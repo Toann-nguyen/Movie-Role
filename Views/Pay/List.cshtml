@@ -1,0 +1,31 @@
+@model IEnumerable<Payment>
+
+<h2>Danh sách thanh toán</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã đơn hàng</th>
+            <th>Họ tên</th>
+            <th>Số điện thoại</th>
+            <th>Số tiền</th>
+            <th>Phương thức</th>
+            <th>Trạng thái</th>
+            <th>Ngày tạo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.OrderId</td>
+                <td>@item.FullName</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.Amount.ToString("N0") VNĐ</td>
+                <td>@item.PaymentMethod</td>
+                <td>@item.Status</td>
+                <td>@item.CreatedDate.ToString("dd/MM/yyyy HH:mm:ss")</td>
+            </tr>
+        }
+    </tbody>
+</table>

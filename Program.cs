@@ -21,6 +21,7 @@ builder.Services.AddTransient<IVNPayService, VNPayService>();
 builder.Services.Configure<VNPayConfigOptions>(builder.Configuration.GetSection("VnPay"));
 //File Storage
 builder.Services.AddTransient<IStorageService, FileStorageService>();
+
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
