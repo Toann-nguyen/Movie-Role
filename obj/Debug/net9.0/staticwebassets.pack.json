@@ -1,743 +1,743 @@
 {
   "Files": [
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/obj/Debug/net9.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css",
+      "Id": "/home/dell/Movie-Role/obj/Debug/net9.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css",
       "PackagePath": "staticwebassets/MvcMovie.r9hfng2er2.bundle.scp.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/OwlCarousel2-2.3.4.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/OwlCarousel2-2.3.4.zip",
       "PackagePath": "staticwebassets/Source/OwlCarousel2-2.3.4.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/SlickNav-master.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/SlickNav-master.zip",
       "PackagePath": "staticwebassets/Source/SlickNav-master.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/bootstrap-4.4.1-dist.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/bootstrap-4.4.1-dist.zip",
       "PackagePath": "staticwebassets/Source/bootstrap-4.4.1-dist.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/elegant_font.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/elegant_font.zip",
       "PackagePath": "staticwebassets/Source/elegant_font.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/font-awesome-4.7.0.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/font-awesome-4.7.0.zip",
       "PackagePath": "staticwebassets/Source/font-awesome-4.7.0.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/jquery-nice-select-1.1.0.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/jquery-nice-select-1.1.0.zip",
       "PackagePath": "staticwebassets/Source/jquery-nice-select-1.1.0.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/plyr-master.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/plyr-master.zip",
       "PackagePath": "staticwebassets/Source/plyr-master.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/Source/sass.zip",
+      "Id": "/home/dell/Movie-Role/wwwroot/Source/sass.zip",
       "PackagePath": "staticwebassets/Source/sass.zip"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/bootstrap.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/elegant-icons.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/elegant-icons.css",
       "PackagePath": "staticwebassets/css/elegant-icons.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/font-awesome.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/font-awesome.min.css",
       "PackagePath": "staticwebassets/css/font-awesome.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/nice-select.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/nice-select.css",
       "PackagePath": "staticwebassets/css/nice-select.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/owl.carousel.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/owl.carousel.min.css",
       "PackagePath": "staticwebassets/css/owl.carousel.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/plyr.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/plyr.css",
       "PackagePath": "staticwebassets/css/plyr.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/site.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/slicknav.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/slicknav.min.css",
       "PackagePath": "staticwebassets/css/slicknav.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/style.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/style.css",
       "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/css/styles.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/css/styles.css",
       "PackagePath": "staticwebassets/css/styles.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/favicon.ico",
+      "Id": "/home/dell/Movie-Role/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/ElegantIcons.eot",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/ElegantIcons.eot",
       "PackagePath": "staticwebassets/fonts/ElegantIcons.eot"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/ElegantIcons.svg",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/ElegantIcons.svg",
       "PackagePath": "staticwebassets/fonts/ElegantIcons.svg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/ElegantIcons.ttf",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/ElegantIcons.ttf",
       "PackagePath": "staticwebassets/fonts/ElegantIcons.ttf"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/ElegantIcons.woff",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/ElegantIcons.woff",
       "PackagePath": "staticwebassets/fonts/ElegantIcons.woff"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/FontAwesome.otf",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/FontAwesome.otf",
       "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/fontawesome-webfont.eot",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/fontawesome-webfont.eot",
       "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/fontawesome-webfont.svg",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/fontawesome-webfont.svg",
       "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/fontawesome-webfont.ttf",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/fontawesome-webfont.woff",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/fontawesome-webfont.woff",
       "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/fonts/fontawesome-webfont.woff2",
+      "Id": "/home/dell/Movie-Role/wwwroot/fonts/fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/details-pic.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/details-pic.jpg",
       "PackagePath": "staticwebassets/img/anime/details-pic.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/review-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/review-1.jpg",
       "PackagePath": "staticwebassets/img/anime/review-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/review-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/review-2.jpg",
       "PackagePath": "staticwebassets/img/anime/review-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/review-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/review-3.jpg",
       "PackagePath": "staticwebassets/img/anime/review-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/review-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/review-4.jpg",
       "PackagePath": "staticwebassets/img/anime/review-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/review-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/review-5.jpg",
       "PackagePath": "staticwebassets/img/anime/review-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/anime/review-6.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/anime/review-6.jpg",
       "PackagePath": "staticwebassets/img/anime/review-6.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-1.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-10.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-10.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-10.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-11.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-11.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-11.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-12.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-12.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-12.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-2.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-3.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-4.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-5.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-6.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-6.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-6.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-7.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-7.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-7.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-8.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-8.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-8.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/blog-9.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/blog-9.jpg",
       "PackagePath": "staticwebassets/img/blog/blog-9.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/bd-item-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/bd-item-1.jpg",
       "PackagePath": "staticwebassets/img/blog/details/bd-item-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/bd-item-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/bd-item-2.jpg",
       "PackagePath": "staticwebassets/img/blog/details/bd-item-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/bd-item-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/bd-item-3.jpg",
       "PackagePath": "staticwebassets/img/blog/details/bd-item-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/blog-details-pic.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/blog-details-pic.jpg",
       "PackagePath": "staticwebassets/img/blog/details/blog-details-pic.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/comment-1.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/comment-1.png",
       "PackagePath": "staticwebassets/img/blog/details/comment-1.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/comment-2.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/comment-2.png",
       "PackagePath": "staticwebassets/img/blog/details/comment-2.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/blog/details/comment-3.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/blog/details/comment-3.png",
       "PackagePath": "staticwebassets/img/blog/details/comment-3.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/hero/hero-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/hero/hero-1.jpg",
       "PackagePath": "staticwebassets/img/hero/hero-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/live/live-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/live/live-1.jpg",
       "PackagePath": "staticwebassets/img/live/live-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/live/live-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/live/live-2.jpg",
       "PackagePath": "staticwebassets/img/live/live-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/live/live-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/live/live-3.jpg",
       "PackagePath": "staticwebassets/img/live/live-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/live/live-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/live/live-4.jpg",
       "PackagePath": "staticwebassets/img/live/live-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/live/live-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/live/live-5.jpg",
       "PackagePath": "staticwebassets/img/live/live-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/live/live-6.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/live/live-6.jpg",
       "PackagePath": "staticwebassets/img/live/live-6.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/logo.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/logo.png",
       "PackagePath": "staticwebassets/img/logo.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/normal-breadcrumb.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/normal-breadcrumb.jpg",
       "PackagePath": "staticwebassets/img/normal-breadcrumb.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/popular/popular-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/popular/popular-1.jpg",
       "PackagePath": "staticwebassets/img/popular/popular-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/popular/popular-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/popular/popular-2.jpg",
       "PackagePath": "staticwebassets/img/popular/popular-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/popular/popular-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/popular/popular-3.jpg",
       "PackagePath": "staticwebassets/img/popular/popular-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/popular/popular-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/popular/popular-4.jpg",
       "PackagePath": "staticwebassets/img/popular/popular-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/popular/popular-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/popular/popular-5.jpg",
       "PackagePath": "staticwebassets/img/popular/popular-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/popular/popular-6.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/popular/popular-6.jpg",
       "PackagePath": "staticwebassets/img/popular/popular-6.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/recent/recent-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/recent/recent-1.jpg",
       "PackagePath": "staticwebassets/img/recent/recent-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/recent/recent-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/recent/recent-2.jpg",
       "PackagePath": "staticwebassets/img/recent/recent-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/recent/recent-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/recent/recent-3.jpg",
       "PackagePath": "staticwebassets/img/recent/recent-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/recent/recent-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/recent/recent-4.jpg",
       "PackagePath": "staticwebassets/img/recent/recent-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/recent/recent-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/recent/recent-5.jpg",
       "PackagePath": "staticwebassets/img/recent/recent-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/recent/recent-6.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/recent/recent-6.jpg",
       "PackagePath": "staticwebassets/img/recent/recent-6.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/comment-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/comment-1.jpg",
       "PackagePath": "staticwebassets/img/sidebar/comment-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/comment-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/comment-2.jpg",
       "PackagePath": "staticwebassets/img/sidebar/comment-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/comment-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/comment-3.jpg",
       "PackagePath": "staticwebassets/img/sidebar/comment-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/comment-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/comment-4.jpg",
       "PackagePath": "staticwebassets/img/sidebar/comment-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/tv-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/tv-1.jpg",
       "PackagePath": "staticwebassets/img/sidebar/tv-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/tv-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/tv-2.jpg",
       "PackagePath": "staticwebassets/img/sidebar/tv-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/tv-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/tv-3.jpg",
       "PackagePath": "staticwebassets/img/sidebar/tv-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/tv-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/tv-4.jpg",
       "PackagePath": "staticwebassets/img/sidebar/tv-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/sidebar/tv-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/sidebar/tv-5.jpg",
       "PackagePath": "staticwebassets/img/sidebar/tv-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/trending/trend-1.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/trending/trend-1.jpg",
       "PackagePath": "staticwebassets/img/trending/trend-1.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/trending/trend-2.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/trending/trend-2.jpg",
       "PackagePath": "staticwebassets/img/trending/trend-2.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/trending/trend-3.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/trending/trend-3.jpg",
       "PackagePath": "staticwebassets/img/trending/trend-3.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/trending/trend-4.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/trending/trend-4.jpg",
       "PackagePath": "staticwebassets/img/trending/trend-4.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/trending/trend-5.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/trending/trend-5.jpg",
       "PackagePath": "staticwebassets/img/trending/trend-5.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/img/trending/trend-6.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/img/trending/trend-6.jpg",
       "PackagePath": "staticwebassets/img/trending/trend-6.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/bootstrap.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/js/bootstrap.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/datatables-simple-demo.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/datatables-simple-demo.js",
       "PackagePath": "staticwebassets/js/datatables-simple-demo.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/jquery-3.3.1.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets/js/jquery-3.3.1.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/jquery.slicknav.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/jquery.slicknav.js",
       "PackagePath": "staticwebassets/js/jquery.slicknav.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/main.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/main.js",
       "PackagePath": "staticwebassets/js/main.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/mixitup.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/mixitup.min.js",
       "PackagePath": "staticwebassets/js/mixitup.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/owl.carousel.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/owl.carousel.min.js",
       "PackagePath": "staticwebassets/js/owl.carousel.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/player.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/player.js",
       "PackagePath": "staticwebassets/js/player.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/scripts.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/scripts.js",
       "PackagePath": "staticwebassets/js/scripts.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/js/site.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/dist/jquery.slim.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/dist/jquery.slim.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "Id": "/home/dell/Movie-Role/wwwroot/lib/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_anime-details.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_anime-details.scss",
       "PackagePath": "staticwebassets/sass/_anime-details.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_anime-watching.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_anime-watching.scss",
       "PackagePath": "staticwebassets/sass/_anime-watching.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_base.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_base.scss",
       "PackagePath": "staticwebassets/sass/_base.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_blog-details.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_blog-details.scss",
       "PackagePath": "staticwebassets/sass/_blog-details.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_blog.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_blog.scss",
       "PackagePath": "staticwebassets/sass/_blog.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_breadcrumb.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_breadcrumb.scss",
       "PackagePath": "staticwebassets/sass/_breadcrumb.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_footer.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_footer.scss",
       "PackagePath": "staticwebassets/sass/_footer.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_header.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_header.scss",
       "PackagePath": "staticwebassets/sass/_header.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_hero.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_hero.scss",
       "PackagePath": "staticwebassets/sass/_hero.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_login.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_login.scss",
       "PackagePath": "staticwebassets/sass/_login.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_mixins.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_mixins.scss",
       "PackagePath": "staticwebassets/sass/_mixins.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_product.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_product.scss",
       "PackagePath": "staticwebassets/sass/_product.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_responsive.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_responsive.scss",
       "PackagePath": "staticwebassets/sass/_responsive.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_signup.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_signup.scss",
       "PackagePath": "staticwebassets/sass/_signup.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/_variable.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/_variable.scss",
       "PackagePath": "staticwebassets/sass/_variable.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/sass/style.scss",
+      "Id": "/home/dell/Movie-Role/wwwroot/sass/style.scss",
       "PackagePath": "staticwebassets/sass/style.scss"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/21c80adc-1f97-45b7-9200-c03a7c8c6ed2.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/21c80adc-1f97-45b7-9200-c03a7c8c6ed2.png",
       "PackagePath": "staticwebassets/user-content/21c80adc-1f97-45b7-9200-c03a7c8c6ed2.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/25ddae90-eb6d-4a66-ab37-9dd4ca0dc378.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/25ddae90-eb6d-4a66-ab37-9dd4ca0dc378.png",
       "PackagePath": "staticwebassets/user-content/25ddae90-eb6d-4a66-ab37-9dd4ca0dc378.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/4a3460ea-3109-4257-927c-2f676e942356.jpg",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/4a3460ea-3109-4257-927c-2f676e942356.jpg",
       "PackagePath": "staticwebassets/user-content/4a3460ea-3109-4257-927c-2f676e942356.jpg"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/58f8c3f2-fcac-4912-bb63-3f9613d6f2cb.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/58f8c3f2-fcac-4912-bb63-3f9613d6f2cb.png",
       "PackagePath": "staticwebassets/user-content/58f8c3f2-fcac-4912-bb63-3f9613d6f2cb.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/76b56597-f31e-4849-a796-86d912e74782.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/76b56597-f31e-4849-a796-86d912e74782.png",
       "PackagePath": "staticwebassets/user-content/76b56597-f31e-4849-a796-86d912e74782.png"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/7df46208-64f7-438f-a917-60ad354c3ca8.jfif",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/7df46208-64f7-438f-a917-60ad354c3ca8.jfif",
       "PackagePath": "staticwebassets/user-content/7df46208-64f7-438f-a917-60ad354c3ca8.jfif"
     },
     {
-      "Id": "/home/dell/NETcore/MVC-Movie/wwwroot/user-content/c22a6162-306a-4aae-9d4f-3c15548e54d7.png",
+      "Id": "/home/dell/Movie-Role/wwwroot/user-content/c22a6162-306a-4aae-9d4f-3c15548e54d7.png",
       "PackagePath": "staticwebassets/user-content/c22a6162-306a-4aae-9d4f-3c15548e54d7.png"
     },
     {

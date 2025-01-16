@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SI+LM0DbWVw=",
+  "dgSpecHash": "zyQ0Yls4eEs=",
   "success": true,
-  "projectFilePath": "/home/dell/NETcore/MVC-Movie/MvcMovie.csproj",
+  "projectFilePath": "/home/dell/Movie-Role/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/home/dell/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/dell/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

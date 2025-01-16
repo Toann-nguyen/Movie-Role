@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dell/NETcore/MVC-Movie/MvcMovie.csproj": {}
+    "/home/dell/Movie-Role/MvcMovie.csproj": {}
   },
   "projects": {
-    "/home/dell/NETcore/MVC-Movie/MvcMovie.csproj": {
+    "/home/dell/Movie-Role/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dell/NETcore/MVC-Movie/MvcMovie.csproj",
+        "projectUniqueName": "/home/dell/Movie-Role/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/home/dell/NETcore/MVC-Movie/MvcMovie.csproj",
+        "projectPath": "/home/dell/Movie-Role/MvcMovie.csproj",
         "packagesPath": "/home/dell/.nuget/packages/",
-        "outputPath": "/home/dell/NETcore/MVC-Movie/obj/",
+        "outputPath": "/home/dell/Movie-Role/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dell/.nuget/NuGet/NuGet.Config"
